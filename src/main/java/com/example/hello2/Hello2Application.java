@@ -16,7 +16,7 @@ public class Hello2Application {
 	@GetMapping("/hello2")
 	public String getHello()  {
 		if (true) {
-			return "Hello 2";
+			return "Hello 22";
 		} else {
 			return "HELLOO 2";
 		}
